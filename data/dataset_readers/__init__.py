@@ -1,0 +1,4 @@
+from TGNC.data.dataset_readers.goodnews_tgnc_mstr_wiki import GoodNewsTGNCMSTRWikiReader
+from TGNC.data.dataset_readers.nytimes_tgnc_mstr_wiki import NYTNewsTGNCMSTRWikiReader
+from TGNC.data.dataset_readers.goodnews_tell_wiki import GoodNewsTellWikiReader
+from TGNC.data.dataset_readers.nytimes_tell_wiki import NYTNewsTellWikiReader
